@@ -1,17 +1,17 @@
 img{
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: auto;
-  }
-  
-  *{
-    background-color: rgb(160, 112, 119);
-    color: rgb(12, 2, 21);
-    font-family: Times New Roman;
-    font-size: 1.1rem;
-    max-width: 100%;
-  }
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+*{
+  background-color: rgb(160, 112, 119);
+  color: rgb(12, 2, 21);
+  font-family: Times New Roman;
+  font-size: 1.1rem;
+  max-width: 100%;
+}
 
 body, h1, h2, h3, p {
   margin: 0 10px 0 10px;
@@ -19,64 +19,64 @@ body, h1, h2, h3, p {
 }
 
 .hehe{
-    margin: 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-    flex-wrap: wrap;
-  }
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
 
-  .right{
-    text-align: right;
-    white-space: normal;
-  }
+.right{
+  text-align: right;
+  white-space: normal;
+}
 
-  h1{
-    color: black;
-    font-weight: 900;
-    font-size: 2.5rem;
-    padding: auto;
-    margin: auto;
-    text-decoration: underline;
-  }
-  
-  .center{
-    text-align: center;
-  }
+h1{
+  color: black;
+  font-weight: 900;
+  font-size: 2.5rem;
+  padding: auto;
+  margin: auto;
+  text-decoration: underline;
+}
 
-  h2{
-    font-size: 2rem;
-    margin: 10px auto auto;
-  }
-  
-  h3{
-    font-size: 1.2rem;
-    margin: 0 0 20px 0;
-    padding: auto;
-  }
+.center{
+  text-align: center;
+}
+
+h2{
+  font-size: 2rem;
+  margin: 10px auto auto;
+}
+
+h3{
+  font-size: 1.2rem;
+  margin: 0 0 20px 0;
+  padding: auto;
+}
 
 @media (max-width: 768px) {
-  h1 {
-    font-size: 2rem;
-  }
-  h2 {
-    font-size: 1.5rem;
-  }
-  h3 {
-    font-size: 1rem;
-  }
+h1 {
+  font-size: 2rem;
 }
-  
-  .title{
-    text-decoration: underline;
-  }
-  
-  figcaption{
-    margin: 0 0 20px 0;
-    text-align: center;
-  }
-  
-  .my-link{
-    text-align: center;
-  }
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1rem;
+}
+}
+
+.title{
+  text-decoration: underline;
+}
+
+figcaption{
+  margin: 0 0 20px 0;
+  text-align: center;
+}
+
+.my-link{
+  text-align: center;
+}
