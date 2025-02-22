@@ -12,6 +12,22 @@ img{
     font-size: 110%;
     margin: 10px;
   }
+
+@media (max-width: 767px) {
+  .hehe{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .right{
+    text-align: right;
+    white-space: nowrap;
+  }
+}
+
   
   h1{
     color: black;
@@ -24,19 +40,6 @@ img{
   
   .center{
     text-align: center;
-  }
-
-  .hehe{
-    margin: 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-  }
-
-  .right{
-    text-align: right;
-    white-space: nowrap;
   }
 
   h2{
