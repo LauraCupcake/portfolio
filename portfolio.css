@@ -24,7 +24,7 @@ body, h1, h2, h3, p {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
-    flexwrap: wrap;
+    flex-wrap: wrap;
   }
 
   .right{
