@@ -32,6 +32,7 @@ body {
   height: auto;
   min-height: 65px;
   z-index: 1000;
+  max-width: 100%;
 }
 
 .nav-bar h1 {
@@ -68,6 +69,7 @@ body {
 .welcome-section {
   width: 100%;
   height: 100vh;
+  max-width: 100%;
 }
 
 .welcome-section div {
@@ -112,6 +114,7 @@ body {
   color: black;
   margin: 0 4rem;
   border-radius: 10px;
+  max-width: 100%;
 }
 
 .skills h2 {
@@ -150,6 +153,7 @@ svg:hover{
   text-align: center;
   padding: 3rem 2rem;
   background: linear-gradient(to bottom, #45567d, #312e81);
+  max-width: 100%;
 }
 
 .project-section-header{
@@ -214,6 +218,7 @@ svg:hover{
   height: 80vh;
   padding: 2rem;
   margin-top: 4rem;
+  max-width: 100%;
 }
 
 .contact-section-header h1{
