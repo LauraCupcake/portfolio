@@ -104,6 +104,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 100%;
   height: 100vh;
   color: black;
   margin: 0 4rem;
@@ -142,6 +143,7 @@ svg:hover{
 }
 
 .project-section {
+  width: 100%;
   text-align: center;
   padding: 3rem 2rem;
   background: linear-gradient(to bottom, #45567d, #312e81);
@@ -297,6 +299,7 @@ svg:hover{
   }
 
   .contact-section {
+    width: 100%;
     padding: 1rem;
     margin-top: 2rem;
   }
