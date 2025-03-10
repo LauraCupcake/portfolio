@@ -16,6 +16,9 @@ body {
   font-family: "DM Serif Text", serif;
   overflow-x: hidden;
   overflow-y: scroll;
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
 .nav-bar {
@@ -271,6 +274,7 @@ svg:hover{
 
   .skills{
     margin: 0 2rem;
+    padding: 0;
   }
 
   .skills h2 {
@@ -325,6 +329,7 @@ svg:hover{
 
   .skills {
     margin: 0;
+    padding: 0;
   }
 
   .frontend, .backend {
